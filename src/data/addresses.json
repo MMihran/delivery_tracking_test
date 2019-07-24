@@ -1,0 +1,166 @@
+[
+  {
+    "city": "Yerevan",
+    "postal": "0054",
+    "address": "18/6 Tigran Petrosyan St.",
+    "barCode": "010101",
+    "timeRange": "08:00-09:00",
+    "exactTime": "08:15"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0026",
+    "address": "34/3 Arshakunyats Ave.",
+    "barCode": "54789945",
+    "timeRange": "08:00-09:00",
+    "exactTime": "08:30"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0010",
+    "address": "2 Vazgen Sargsyan Str.",
+    "barCode": "253572",
+    "timeRange": "08:00-09:00",
+    "exactTime": "08:45"
+  },
+
+  {
+    "city": "Yerevan",
+    "postal": "0063",
+    "address": "161 Marshal Khudiakovi Street",
+    "barCode": "73752",
+    "timeRange": "08:00-09:00",
+    "exactTime": "09:03"
+  },
+
+  {
+    "city": "Yerevan",
+    "postal": "0001",
+    "address": "8 Sayat-Nova Ave.",
+    "barCode": "020202",
+    "timeRange": "09:00-10:00",
+    "exactTime": "09:15"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0046",
+    "address": "18 Bagratuniats Str.",
+    "barCode": "6435435",
+    "timeRange": "09:00-10:00",
+    "exactTime": "09:25"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0010",
+    "address": "10 Vazgen Sargsyan St.",
+    "barCode": "123752",
+    "timeRange": "09:00-10:00",
+    "exactTime": "09:35"
+  },
+
+  {
+    "city": "Yerevan",
+    "postal": "0009",
+    "address": "39/12 Mashtotsi Ave.",
+    "barCode": "53357",
+    "timeRange": "09:00-10:00",
+    "exactTime": "10:05"
+  },
+
+  {
+    "city": "Yerevan",
+    "postal": "0015",
+    "address": "9 G. Lusavorich Str.",
+    "barCode": "032025",
+    "timeRange": "10:00-12:00",
+    "exactTime": "10:23"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0033",
+    "address": "12 Komitas Ave.",
+    "barCode": "151518",
+    "timeRange": "10:00-12:00",
+    "exactTime": "10:33"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0009",
+    "address": "48 Mashtots Ave.",
+    "barCode": "151519",
+    "timeRange": "10:00-12:00",
+    "exactTime": "10:40"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0009",
+    "address": "22/8 A. Isahakyan Str.",
+    "barCode": "4536434",
+    "timeRange": "10:00-12:00",
+    "exactTime": "10:48"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0012",
+    "address": "8 Papazyan Str.",
+    "barCode": "4364535",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:05"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0056",
+    "address": "16 Gai Ave.",
+    "barCode": "13534",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:10"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0051",
+    "address": "49 Komitasi Ave.",
+    "barCode": "275275",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:23"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0039",
+    "address": "13 Bagratuniats St.",
+    "barCode": "789785",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:27"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0069",
+    "address": "14/7 Rubinyants St.",
+    "barCode": "24524",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:31"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0070",
+    "address": "4/1 Kajaznunu St.",
+    "barCode": "3753537",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:35"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0001",
+    "address": "19 Sayat-Novai Ave.",
+    "barCode": "375357",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:45"
+  },
+  {
+    "city": "Yerevan",
+    "postal": "0019",
+    "address": "23 Marshal Baghramyan Ave.",
+    "barCode": "78857",
+    "timeRange": "10:00-12:00",
+    "exactTime": "11:55"
+  }
+]
